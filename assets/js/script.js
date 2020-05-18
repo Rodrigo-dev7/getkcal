@@ -24,7 +24,7 @@ function handleSubmit(event) {
 
   const layout = `
   <h2>Aqui está o resultado:</h2>
-k
+  
   <div class="result-content">
     <ul>
       <li>

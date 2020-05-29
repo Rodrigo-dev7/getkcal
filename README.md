@@ -12,6 +12,7 @@ A taxa metabólica basal representa cerca de 70% das calorias que são queimadas
   $ npm init -y # inicializando o package.json
   $ npm install serve -D # instalando o serve como dependência de desenvolvimento
   $ npx serve . # rodando o servidor node```
-  
-  
+  ```
+
+- Acesse: https://rodrigo-dev7.github.io/getkcal/
 
